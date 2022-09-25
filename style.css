@@ -1,0 +1,59 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://lh3.googleusercontent.com/fife/AAbDypAiPclrao2Mrb11fSc2gcW4IjdyN6kuJ34FVPs2gtt6Yq-CaFRhY0A0GT4U_iTva7HODRro4rK0WSLtCW7QqvR4N1qC3pp2q9GvYddC_fo3KeQQS1rWqD5X_a9OX8urKpzx74k7nPHOpzZoE_pEJ0zXtMlkoyg2Kd7hErALRdMXeDoFCzK0pY-YJcruMrFQRQhnMnkMfESH0tEyQR1vafDPz7lGfETDgKhHGM9wvAbFMfxXcV1B7F1N6BFI_EQyE9G4UoTzisQXere1WBSzbg9C3ZR9680j3U_O6dw4sMteDkc-BMH6Rme2tQmdPquHR5Gr7cV4NuLP2Tudn0da3JsqJ5aluaQmTbopvG0RYe3VgROCnHnMUeBO3XO_mHseCkDhcr56KWHtxvRMFLWr4nfSt3-O1e3fAbT1P24-O8KsuGRI7l6unKPhs7QFAXUttisX7R6rqc1kqb1or6-1IDqOOr0OXuP5lxIiOo8BjaUW2yGUuDswW-fMQI3-SjKi_jBWxtQLKBtEY2oewZ5fHd8w4n5oQQ9XjytAM24IhfkB95COH5b3qKVWDe9hCIbm00tRSAQ8_jaW5hOVPkH17TH0LhcoBUjqfnYAzCrB7lR7mWzpdDMzG-IDOx1M91-gYopaiDHYajGbveiqZR4y8r6rB_kscSPp6RPXXRLWPJbMxzaUMcVRFmGEs0hyjeS6RYgNnzI036koX3v53AA0ze5rB1OLLqwBIPaS2c9PDVMib5OMHX_ciEx6s4u9xEpXeVNxQ2iefE2kggpwM1cbJp7Kry1q7ob_qa0tCArkpz-xQfS6K4sxKYU0P6W_frcrDjOWO-qbzbijjbAJPy_dBXuK5Ui5poUVH_ZCvE_Yle08UqPCCMseQaCo4dRBGeidR8a_S1NXjJbWjm0uGkCjuR9D4EBDhEy-YY0ysSmVDROFTds-6P7HE4nYkcWXeF6Feft3ndweaRkoVY7CYZyJ0ARVQ1IT8TY7yDiFwsYAfd8yUTPNFwO2u9o5jc0q2uyfC3yt_CZTk7NRodA_Ri4V2ie4rajooNDNuEnH4tTOB2wVPfEi_pX2_WHsHoQRLys-cSJxTf8T3XJJ0DNIxm4rAxE-ZiFdj-HwRdJQUEr_ysZ2drePjBaiOgyp_c7uDEJvcYnlR91AlaM0U4Ce_y2146ruC6b8hu0VHsX4NXiAIk7rQ69PpaDYI5jO8IfPFQ8aWK15hL9Kuj9sRvhgKHC8ldmhLhpUuBjE4NQdPs8dY0cL6hmZlSAK6pv-DAuQdjBWme2ikhQ8trvrYwzFBp3cJ7skcK7FVPtqma-cUdW4L69roQzA7drMc9CCk36k1kVm-KAhZLd98w=w1919-h975");
+    background-color: #000000;
+    background-size: 80vh;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  
